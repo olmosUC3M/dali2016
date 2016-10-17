@@ -1,5 +1,5 @@
 # Site settings
-title: AAAA DALI 2016 - Data Learning and Inference
+title: DALI 2016 - Data Learning and Inference
 venue: Sestri Levante, Italy
 permalink: "/:categories/:title.html"
 banner: sestri.jpeg
@@ -18,7 +18,7 @@ conference:
     url: "http://mlg.eng.cam.ac.uk/zoubin/"
     institute: University of Cambridge
   local:
-  - name: Lorenzo RosascoC
+  - name: Lorenzo Rosasco
     url: "http://web.mit.edu/lrosasco/www/"
     institute: University of Genova and MIT
   assistants:
